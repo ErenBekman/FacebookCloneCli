@@ -1,69 +1,13 @@
 # facebook-clone
 
-## Build Setup
-
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
-
-## Special Directories
-
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
-
-### `assets`
-
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
-
-### `components`
-
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
-
-### `layouts`
-
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
-
-
-### `pages`
-
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
-
-### `plugins`
-
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
-
-### `static`
-
-This directory contains your static files. Each file inside this directory is mapped to `/`.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
-
-### `store`
-
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+<img width="1258" alt="Screen Shot 2022-07-05 at 15 21 58" src="https://user-images.githubusercontent.com/87018360/177330979-24aaa5e8-8e77-4a3f-96f8-eb36ffd8ad08.png">
+<img width="1258" alt="Screen Shot 2022-07-05 at 15 22 38" src="https://user-images.githubusercontent.com/87018360/177330995-b1ae369c-18ae-47d1-85b0-af1760c706cc.png">
+<img width="1251" alt="Screen Shot 2022-07-05 at 15 24 06" src="https://user-images.githubusercontent.com/87018360/177331008-14bf659c-14e8-480d-a2c7-e59008d60f5d.png">
+<img width="1239" alt="Screen Shot 2022-07-05 at 15 25 04" src="https://user-images.githubusercontent.com/87018360/177331013-e25770ec-d319-4c85-b4ce-ceaf3a9d2de4.png">
+<img width="1257" alt="Screen Shot 2022-07-05 at 15 26 47" src="https://user-images.githubusercontent.com/87018360/177331018-9cf43de5-277b-4480-a460-69e2969474f9.png">
+<img width="457" alt="Screen Shot 2022-07-05 at 15 26 53" src="https://user-images.githubusercontent.com/87018360/177331023-10275ce2-d9c5-453a-b63f-d3d7c087a2d8.png">
+<img width="507" alt="Screen Shot 2022-07-05 at 15 28 35" src="https://user-images.githubusercontent.com/87018360/177331028-777e60c2-9457-4472-b8b2-798e0fb6c6c7.png">
+<img width="466" alt="Screen Shot 2022-07-05 at 15 28 48" src="https://user-images.githubusercontent.com/87018360/177331051-ceb9256e-0f59-4d6f-8799-e232c603abd2.png">
+<img width="1142" alt="Screen Shot 2022-07-05 at 15 28 58" src="https://user-images.githubusercontent.com/87018360/177331063-e2d3ab32-e6d0-4eef-9b21-5d06e6ab681b.png">
+<img width="411" alt="Screen Shot 2022-07-05 at 15 30 23" src="https://user-images.githubusercontent.com/87018360/177331067-ae300152-0e80-4e0e-8d39-32867fca003c.png">
+<img width="1133" alt="Screen Shot 2022-07-05 at 15 30 39" src="https://user-images.githubusercontent.com/87018360/177331074-9c2af5b0-6cbf-4902-b6af-1e4efb4b57dd.png">
